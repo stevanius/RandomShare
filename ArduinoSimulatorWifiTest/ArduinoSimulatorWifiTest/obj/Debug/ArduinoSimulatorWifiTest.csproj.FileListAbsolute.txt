@@ -1,0 +1,9 @@
+C:\Users\Stevan\Documents\Arduino\ArduinoSimulatorWifiTest\ArduinoSimulatorWifiTest\bin\Debug\ArduinoSimulatorWifiTest.exe.config
+C:\Users\Stevan\Documents\Arduino\ArduinoSimulatorWifiTest\ArduinoSimulatorWifiTest\bin\Debug\ArduinoSimulatorWifiTest.exe
+C:\Users\Stevan\Documents\Arduino\ArduinoSimulatorWifiTest\ArduinoSimulatorWifiTest\bin\Debug\ArduinoSimulatorWifiTest.pdb
+C:\Users\Stevan\Documents\Arduino\ArduinoSimulatorWifiTest\ArduinoSimulatorWifiTest\obj\Debug\ArduinoSimulatorWifiTest.csprojResolveAssemblyReference.cache
+C:\Users\Stevan\Documents\Arduino\ArduinoSimulatorWifiTest\ArduinoSimulatorWifiTest\obj\Debug\ArduinoSimulatorWifiTest.Form1.resources
+C:\Users\Stevan\Documents\Arduino\ArduinoSimulatorWifiTest\ArduinoSimulatorWifiTest\obj\Debug\ArduinoSimulatorWifiTest.Properties.Resources.resources
+C:\Users\Stevan\Documents\Arduino\ArduinoSimulatorWifiTest\ArduinoSimulatorWifiTest\obj\Debug\ArduinoSimulatorWifiTest.csproj.GenerateResource.Cache
+C:\Users\Stevan\Documents\Arduino\ArduinoSimulatorWifiTest\ArduinoSimulatorWifiTest\obj\Debug\ArduinoSimulatorWifiTest.exe
+C:\Users\Stevan\Documents\Arduino\ArduinoSimulatorWifiTest\ArduinoSimulatorWifiTest\obj\Debug\ArduinoSimulatorWifiTest.pdb
